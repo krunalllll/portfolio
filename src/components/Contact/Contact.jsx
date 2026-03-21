@@ -103,9 +103,9 @@ const Contact = () => {
             </div>
 
             <div className="social-links">
-              <a href="#" className="social-icon hover-target"><FaLinkedin /></a>
-              <a href="#" className="social-icon hover-target"><FaGithub /></a>
-              <a href="#" className="social-icon hover-target"><FaTwitter /></a>
+              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon hover-target"><FaLinkedin /></a>
+              <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="social-icon hover-target"><FaGithub /></a>
+              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="social-icon hover-target"><FaTwitter /></a>
             </div>
           </div>
         </div>
